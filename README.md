@@ -1,3 +1,0 @@
-# GameAlphaBetaDelta
-
-READ ME
